@@ -1,23 +1,23 @@
 ## 👋 Hello! I'm Sandhiya Anandan
 
-🎓 Computer Science and Engineering student at **St. Joseph’s Institute of Technology**  
-💻 Passionate about building intuitive, user-focused web applications with modern technologies  
-🌱 Currently honing my skills as a **Frontend Developer**, while exploring **Backend Development** in the **MERN stack**  
-📌 Actively practicing **Data Structures and Algorithms** using **Java** to strengthen problem-solving abilities  
-🚀 Quick learner, adaptable, and always open to new technologies and challenges  
-🌍 Open to internship and job opportunities in **Chennai** and **Bangalore**
+- 🎓 Computer Science and Engineering student at **St. Joseph’s Institute of Technology**  
+- 💻 Passionate about building intuitive, user-focused web applications with modern technologies  
+- 🌱 Currently honing my skills as a **Frontend Developer**, while exploring **Backend Development** in the **MERN stack**  
+- 📌 Actively practicing **Data Structures and Algorithms** using **Java** to strengthen problem-solving abilities  
+- 🚀 Quick learner, adaptable, and always open to new technologies and challenges  
+- 🌍 Open to internship and job opportunities in **Chennai** and **Bangalore**
 
-<img align="right" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
 ---
 
 ### 🛠️ Tech Stack
 
 **I Code in:**  
-<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img height="40" src="https://img.icons8.com/ios-filled/48/000000/code-file.png" title="ExpressJS"/>  <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>   <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="ExpressJS" alt="ExpressJS Logo"/>   <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>   <img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 **IDE's & Tools:**  
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="40" src="https://img.icons8.com/material-rounded/48/000000/github.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="40" src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 
 ---
 
@@ -61,8 +61,8 @@
   <p align="center"><strong style='font-size:24px;'>⚙️ SkillRack</strong></p>
 </p>
 <p align="center">
-  <a href="https://www.skillrack.com/faces/resume.xhtml?username=sandhiya2005">
-    <img src="https://img.shields.io/badge/SkillRack-Profile-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="SkillRack" />
+  <a href="https://www.skillrack.com/faces/resume.xhtml?id=407251&key=423b0086ac562dc883adbbd7904045730709b805">
+    <img src="https://img.shields.io/badge/SkillRack-View_Profile-blueviolet?style=for-the-badge" alt="SkillRack Profile" />
   </a>
 </p>
 
@@ -79,9 +79,9 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhiya-anandan-5a1b26259)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandhiya-555)
 
 ---
 
-📌 *“Keep learning, keep building, and make an impact!”*
+📌 *“Strive for progress, not perfection.”*
