@@ -2,9 +2,6 @@
   <h1>👋 Hello! I'm Sandhiya Anandan</h1>
 </p>
 
-
----
-
 - 🎓 Computer Science and Engineering student at **St. Joseph’s Institute of Technology**  
 - 💻 Passionate about building intuitive, user-focused web applications with modern technologies  
 - 🌱 Currently honing my skills as a **Frontend Developer**, while exploring **Backend Development** in the **MERN stack**  
