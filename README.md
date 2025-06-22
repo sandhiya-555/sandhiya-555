@@ -14,20 +14,10 @@
 ### 🛠️ Tech Stack
 
 **I Code in:**  
-<img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/nolan/50/express-js.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>   <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>   <img height="50" src="https://img.icons8.com/nolan/50/express-js.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>   <img height="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 **IDE's & Tools:**  
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
-&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/sf-black/64/github.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" src="https://img.icons8.com/sf-black/64/github.png"/>
 
 
 ---
