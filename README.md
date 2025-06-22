@@ -1,4 +1,5 @@
-## 👋 Hello! I'm Sandhiya Anandan
+<center>## 👋 Hello! I'm Sandhiya Anandan</center>
+---
 
 - 🎓 Computer Science and Engineering student at **St. Joseph’s Institute of Technology**  
 - 💻 Passionate about building intuitive, user-focused web applications with modern technologies  
