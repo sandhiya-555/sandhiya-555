@@ -7,17 +7,28 @@
 - 🚀 Quick learner, adaptable, and always open to new technologies and challenges  
 - 🌍 Open to internship and job opportunities in **Chennai** and **Bangalore**
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
 ---
 
 ### 🛠️ Tech Stack
 
 **I Code in:**  
-<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>   <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="ExpressJS" alt="ExpressJS Logo"/>   <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>   <img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/nolan/50/express-js.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 **IDE's & Tools:**  
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="40" src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
+&nbsp;&nbsp; <img height="50" src="https://img.icons8.com/sf-black/64/github.png"/>
+
 
 ---
 
