@@ -71,19 +71,17 @@
 
 ---
 
----
+
 
 ### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-rust-zeta.vercel.app/?user=sandhiya-555&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiya-555&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandhiya-555&bg_color=141012&color=fdfdfc&line=9ef349&point=f7f4e9&area=true&hide_border=true" alt="Sandhiya's GitHub Activity Graph" />
   </a>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiya-555&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
 
