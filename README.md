@@ -1,4 +1,4 @@
-<center>## 👋 Hello! I'm Sandhiya Anandan</center>
+<p align = "center" ># 👋 Hello! I'm Sandhiya Anandan</p>
 ---
 
 - 🎓 Computer Science and Engineering student at **St. Joseph’s Institute of Technology**  
