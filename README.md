@@ -1,14 +1,29 @@
-## Hi there 👋 I'm Sandhiya Anandan
+## 👋 Hello! I'm Sandhiya Anandan
 
-💻 Aspiring Software Engineer | MERN Stack Developer | Python Enthusiast  
-🎓 B.E. Computer Science & Engineering @ St. Joseph’s Institute of Technology (CGPA: 9.08)  
-🌍 Chennai, India  
-📧 sandhiyama2005@gmail.com | 📱 +91 9551694416  
+🎓 Computer Science and Engineering student at **St. Joseph’s Institute of Technology**  
+💻 Passionate about building intuitive, user-focused web applications with modern technologies  
+🌱 Currently honing my skills as a **Frontend Developer**, while exploring **Backend Development** in the **MERN stack**  
+📌 Actively practicing **Data Structures and Algorithms** using **Java** to strengthen problem-solving abilities  
+🚀 Quick learner, adaptable, and always open to new technologies and challenges  
+🌍 Open to internship and job opportunities in **Chennai** and **Bangalore**
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+
+<img align="right" width="350" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://tenor.com/view/coding-girl-gif-2332171326726785246)" />
 
 ---
 
+### 🛠️ Tech Stack I Use
+
+### 🛠️ Tech Stack
+
+**I Code in:**  
+<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-express-js-a-web-application-framework-for-node-js-logo-soft-fill-juicy-fish.png"/>  <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+
+**IDE's & Tools:**  
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="40" src="https://img.icons8.com/material-rounded/48/000000/github.png"/>
+
+
+---
 ### 🚀 Projects I'm Building
 
 - **Culturally-Aware AI Tour Guide**  
@@ -28,71 +43,39 @@
 
 ---
 
-### 👩‍💻 Internships
+### 📈 DSA Analytics
 
-- **Industry-Academic Internship** (Jun 2025 – Present)  
-  Building a culturally-aware AI platform using MERN + Python for VQA.
+<p align="center">
+  <p align="center"><strong style='font-size:24px;'>🚀 LeetCode</strong></p>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/Sandhiya_A">
+    <img src="https://leetcard.jacoblin.cool/Sandhiya_A?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode Stats" />
+  </a>
+</p>
 
-- **Infotact Solutions – Web Development Intern** (May 2025 – Present)  
-  Backend-focused e-commerce project with MERN stack & MongoDB.
-
-- **8Queens Software – Front-End Intern** (Jun 2024 – Jul 2024)  
-  Static webpage design using HTML, CSS, JavaScript under mentorship.
-
----
-
-### 🛠️ Tech Stack I Use
-
-**Languages:**  
-<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/>
-
-**Frameworks & Tools:**  
-<img height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/flask.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<p align="center">
+  <p align="center"><strong style='font-size:24px;'>💡 GeeksforGeeks</strong></p>
+</p>
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/sandhiyau1jg/practice/">
+    <img src="https://gfgstatscard.vercel.app/sandhiyau1jg" alt="GFG Stats" />
+  </a>
+</p>
 
 ---
 
-### 🎯 Skills & Certificates
+### 📊 GitHub Analytics
 
-**Soft Skills:**  
-Problem-Solving, Team Collaboration, Effective Communication, Adaptability
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats-rust-zeta.vercel.app/?user=sandhiya-555&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiya-555&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
 
-**Certifications:**  
-- Meta Front-End Developer  
-- Introduction to MongoDB (For Students)
-
----
-
-### 💡 Achievements
-
-🏅 NPTEL (Elite) - Software Testing  
-📚 Academic: Department Topper with CGPA 9.08
 
 ---
 
-### 🧩 Platforms I Practice On
 
-[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Sandhiya_A/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sandhiyau1jg/)  
-[![SkillRack](https://img.shields.io/badge/SkillRack-blueviolet?style=for-the-badge)](https://www.skillrack.com/faces/resume.xhtml)
-
----
-
-### 📊 GitHub Stats
-
-![Sandhiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhiya-555&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiya-555&layout=compact&theme=tokyonight)  
-[![Sandhiya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandhiya-555&theme=tokyonight&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ### 🌐 Let's Connect
 
