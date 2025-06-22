@@ -2,7 +2,6 @@
   <h1>👋 Hello! I'm Sandhiya Anandan</h1>
 </p>
 
-<br/>
 
 ---
 
